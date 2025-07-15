@@ -1,0 +1,16 @@
+
+# Ignore Python cache and virtualenv
+__pycache__/
+*.pyc
+.venv/
+
+# Ignore large dataset
+data/
+
+# Gradio cache
+.gradio/
+
+# PyCharm settings
+.idea/
+*.iml
+data/
